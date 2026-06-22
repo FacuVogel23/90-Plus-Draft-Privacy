@@ -1,7 +1,7 @@
 {
   "ios": {
     "minimumVersion": "1.0.0",
-    "recommendedVersion": "1.1.0",
+    "recommendedVersion": "99.1.0",
     "message": "Hay una nueva versión disponible con mejoras importantes. ¡Actualizá para disfrutarla!"
     "messageEn": "A new version is available with important improvements. Update now to enjoy them!"
   }
